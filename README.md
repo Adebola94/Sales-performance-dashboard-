@@ -24,7 +24,6 @@ This project analyzes sales performance, profitability, cost, and loss rate acro
 
 ## Files in This Repository
 - Sales_Performance_Dashboard.pbix – Power BI dashboard file
-- Dataset (CSV or Excel file)
 - Dashboard screenshots
 
 ## Notes
